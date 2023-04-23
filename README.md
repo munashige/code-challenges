@@ -1,5 +1,5 @@
 # CODE CHALLENGES
-TD;LR: codewars, code pchallenges, quick projects & more
+TD;LR: codewars, code challenges, quick projects & more
 
 ![My Projects](https://github.com/munashige/code-challenges/blob/main/readme.gif)
 
