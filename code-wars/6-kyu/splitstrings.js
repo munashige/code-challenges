@@ -18,4 +18,7 @@ function solution(str){
     }
   }
   
-  console.log(solution("abcdef"))
+//quick kata
+function solutionEX(str) {
+   return ((str +"_").match(/../g)||[])
+}
