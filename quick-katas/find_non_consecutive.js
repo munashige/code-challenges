@@ -15,5 +15,5 @@ function findNum(arr) {
 //oneliner
 
 function findNumEx(arr) {
-    return arr.find((num, ind) => num !== arr[0] + index || null)
+    return arr.find((num, index) => num !== arr[0] + index || null)
 }
