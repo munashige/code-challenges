@@ -32,4 +32,4 @@ function greet(language) {
     return dict[language] || "Welcome"
   }
   
-  console.log(greet("polish"))
+  
